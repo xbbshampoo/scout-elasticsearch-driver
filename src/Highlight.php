@@ -9,7 +9,7 @@ class Highlight
      *
      * @var array
      */
-    private $highlight;
+    public $highlight;
 
     /**
      * Highlight constructor.
